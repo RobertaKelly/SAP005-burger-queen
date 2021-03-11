@@ -17,10 +17,14 @@
 Nossa interface mostra os dois menus (café da manhã e restante do dia), cada um com todos os seus produtos. O usuário deve poder escolher que produtos
 adicionar e a interface deve mostrar o resumo do pedido com o valor total.
 
+![](https://github.com/laris28/SAP005-burger-queen/blob/fcc024e6d07aabc0ca1d19279f90deb20cc25de9/src/pages/img/Burger.jpg.jpg)
+
 ## 2. Desenvolvimento
 
 Criamos uma interface web usando React. utilizando framework front-end, mantendo o interface em estado sincronizados. onde aprendemos o conceito de estado da tela, e cada mudança no estado e adicinado produtos para o pedido que será enviado para cozinha, a interface deve atualizar a lista de pedidos e o valor total.
 Para aplicação da API, foram efetuados testes no Postman onde obtemos componentes adicinados em nossa aplicação. 
+
+![](https://github.com/laris28/SAP005-burger-queen/blob/fcc024e6d07aabc0ca1d19279f90deb20cc25de9/src/pages/img/ipad%20log.png)
 
 ## 3. Histórias de usuários
 
@@ -59,4 +63,4 @@ Nossos usuários Garçom e Cozinheiro deve acessar os seguintes recuros :
 
 ## 5. Desenvolvedoras
  * Larissa Alberghette e Roberta Kelly  
-
+![](https://github.com/laris28/SAP005-burger-queen/blob/fcc024e6d07aabc0ca1d19279f90deb20cc25de9/src/pages/img/foto%20desenvolvedoras.jpg)
